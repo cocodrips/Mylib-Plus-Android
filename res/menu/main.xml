@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<!--      <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="barcode2"/> -->
+    
+    <item 
+        android:id="@+id/cameraBtn"
+        android:showAsAction="ifRoom|withText"
+        android:icon="@drawable/camera"
+		android:title="barcode"
+        />
+
+</menu>
